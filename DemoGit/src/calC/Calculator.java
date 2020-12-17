@@ -9,6 +9,9 @@ public class Calculator {
 		public int sub(int n1,int n2) {
 			return n2-n1;
 		}
+		public float div(int n1,int n2) {
+			return n1/n2;
+		}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
